@@ -58,7 +58,7 @@ class GlobalListItem extends StatelessWidget {
                     Text(
                       global.country[index].country,
                       style: TextStyle(
-                          fontSize: 20,
+                          fontSize: 18,
                           color: Color(0xff006d77),
                           ),
                     ),
