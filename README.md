@@ -1,16 +1,16 @@
 # flutter_covid
+api by 
+- https://covid19.th-stat.com/en/api
+- https://documenter.getpostman.com/view/10808728/SzS8rjbc
 
-A new Flutter application.
+library
+- https://pub.dev/packages/flutter_svg
+- https://pub.dev/packages/flutter_bloc
+- https://pub.dev/packages?q=dio
 
-## Getting Started
+image and icons
+- https://www.flaticon.com/
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![ezgif-6-3b67a009d871](https://user-images.githubusercontent.com/70007943/102301828-46c0a880-3f8a-11eb-954d-0f275d5f78a2.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
