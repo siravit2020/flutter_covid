@@ -12,5 +12,5 @@ image and icons
 - https://www.flaticon.com/
 
 
-![ezgif-6-3b67a009d871](https://user-images.githubusercontent.com/70007943/102301828-46c0a880-3f8a-11eb-954d-0f275d5f78a2.gif)
+![new2](https://user-images.githubusercontent.com/70007943/102304048-1cbdb500-3f8f-11eb-9d3f-41f3701271e3.gif)
 
